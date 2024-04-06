@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMenegment", "TaskMenegment\TaskMenegment.csproj", "{D2D3C61F-83F4-45B0-AA24-919962ED392F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2D3C61F-83F4-45B0-AA24-919962ED392F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D3C61F-83F4-45B0-AA24-919962ED392F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D3C61F-83F4-45B0-AA24-919962ED392F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D3C61F-83F4-45B0-AA24-919962ED392F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
